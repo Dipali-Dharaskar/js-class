@@ -9,14 +9,15 @@ console.log(3 + 3)
 console.log("dipali")
 
 
-let name = "dipali"
+let name = "dipali"    
 let age = 26
 let isLoggedIn = false
+let state;
 
 /*
 number => 2 to power 53
 bigInt
-string =>""
+string =>"dipali"
 boolean => true/false
 null =>stand alone value
 undefined =>
@@ -27,3 +28,4 @@ object */
 console.log(typeof "dipali");
 console.log(typeof null); //object
 console.log(typeof undefined);  //undefined
+
